@@ -26,6 +26,8 @@ Este proyecto consiste en el desarrollo de un programa de consola en Python para
 
 **Habilidades y Fortalezas:** Me considero una persona responsable, respetuosa y con capacidad para el trabajo en equipo. Me adapto con facilidad a nuevos entornos y aprendo facilmente. Busco mejorar y aportar lo mejor de mí en cada actividad.  
 
+# Parqueadero Alma Máter 
+Espacio exclusivo para el estacionamiento de automóviles de la comunidad universitaria de la Universidad de Antioquia, 
 
 ![Parqueadero](https://www.carroya.com/noticias/sites/default/files/entradillas/432916874parqueadero-tips-cy.jpg)
 
