@@ -1,7 +1,7 @@
 # Trabajo Final Algoritmia y Programación 2025-1
 ## Integrantes
 - Aida Andrea Arredondo Silva
-- Natalia Restrepo
+- Natalia Restrepo Calvo
 - Paola López
  
 
