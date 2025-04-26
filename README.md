@@ -18,6 +18,13 @@ Este proyecto consiste en el desarrollo de un programa de consola en Python para
 
 **Habilidades y Fortalezas:** Me considero una persona creativa, con buen sentido del diseño y con disposición a explorar y aprender cosas nuevas. Me gusta encontrar soluciones prácticas a los problemas y trabajar en equipo. Soy responsable, curiosa, me adapto fácilmente a los cambios y siempre busco mejorar en cada proyecto en el que participo.
 
+### Natalia Restrepo Calvo
+
+**Programa** Ingeniería Industrial, Facultad de Ingeniería 
+
+**Seccional**: Urabá - Turbo
+
+**Habilidades y Fortalezas:** Me considero una persona responsable, respetuosa y que trabaja en equipo. 
 
 
 ![Parqueadero](https://www.carroya.com/noticias/sites/default/files/entradillas/432916874parqueadero-tips-cy.jpg)
