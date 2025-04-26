@@ -24,7 +24,7 @@ Este proyecto consiste en el desarrollo de un programa de consola en Python para
 
 **Seccional**: Urabá - Turbo
 
-**Habilidades y Fortalezas:** Me considero una persona responsable, respetuosa y que trabaja en equipo. 
+**Habilidades y Fortalezas:** Me considero una persona responsable, respetuosa y con capacidad para el trabajo en equipo. Me adapto con facilidad a nuevos entornos y aprendo facilmente. Busco mejorar y aportar lo mejor de mí en cada actividad.  
 
 
 ![Parqueadero](https://www.carroya.com/noticias/sites/default/files/entradillas/432916874parqueadero-tips-cy.jpg)
