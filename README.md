@@ -39,3 +39,5 @@ Espacio exclusivo para el estacionamiento de automóviles de la comunidad univer
 
 ![Parqueadero](https://www.carroya.com/noticias/sites/default/files/entradillas/432916874parqueadero-tips-cy.jpg)
 
+# Reporte de visiòn: Software de gestiòn para el parqueadero Alma Màter
+**Descripciòn general del sofware:** El sofware de gstiòn para el parqueadero Alma Màter serà una aplicaciòn de consola desarrollada en Python, diseñada para automatizar y optimizar las opraciones diarias dl parqueader. Su interfaz sera intuitiva y de fàcil uso para el personal, permitièndoles gestionar eficientemente el ingreso y salida de vehìculos, el registro de usuarios, la generaciòn de cobros y facturas, y la creaciòn de reportes administrativos.
