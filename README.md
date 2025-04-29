@@ -37,7 +37,7 @@ Este proyecto consiste en el desarrollo de un programa de consola en Python para
 # Parqueadero Alma Máter 
 Espacio exclusivo para el estacionamiento de automóviles de la comunidad universitaria de la Universidad de Antioquia. Actualemente, el proceso es manual y necesita un sistema en Python para gestionar usuarios, controlar entradas y salidas, generar cobros y emitir reportes. El parqueadero opera de 06:00 am a 12:00 pm con tres empleados en turnos de 6 horas. 
 
-![Parqueadero Alma Máter](2B176324-633B-4F82-A0E6-C8611C543770.png)
+![Parqueadero Alma Máter](Imagen Parqueadero del Proyecto.png)
 
 # Licencia de Software
 La liecencia recomendada para el software es **Creative Commons Atribución 4.0 Internacional**
