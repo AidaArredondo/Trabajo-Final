@@ -61,9 +61,13 @@ No se ofrecen garantías. Es posible que la licencia no le otorgue todos los per
 
 **Objetivos:**
 El objetivo principa de este software es modernizar la gestión del parqueadero, pasando de un sistema manual a uno digitalizado. Esto se logrará mediante las siguientes funcionalidades clave:
+
 **Registros de Usuarios:** Permitir el registro de usuarios frecuentes o visistantes, almacenando información revelante como placa del vehículo y datos de contacto (opcional).
+
 **Gestión de ingreso y salidas de vehículos:** Facilitar el registro de la hora y la fecha d eingreso de cada automóvil al parqueadero, así como la asignación del espacio de parqueo seleccionado. De igual manera, registrar la hora y fecha de sañlida del vehículo. 
-**Cálculo automático de cobros: Implementar un sistema de cálculo automátixo del valor a oagar por el tiempo de estacionamiento, considerando tarifas por hora y fracción. 
+
+**Cálculo automático de cobros:** Implementar un sistema de cálculo automátixo del valor a oagar por el tiempo de estacionamiento, considerando tarifas por hora y fracción. 
+
 **Generación de facturas:** Crear la funcinalidad para generar facturas digitales para los usuarios que lo requieran, detallando el tiempo de estacionamiento y el valor pagado. 
 
 **Generación de reportes administrativos:** Producir reportes periódicos que permitan al administrador del parqueadero tener una visión clara de la ocupación, los ingresos generados, el flujo de vehículos, y otros datos relevantes para la toma de decisiones. 
@@ -74,6 +78,7 @@ El objetivo principa de este software es modernizar la gestión del parqueadero,
 
 **Beneficios:**
 La implementación de este software de gestión traerá consigo una serie de beneficios significativos para el parqueadero Alma Máter, los cuales son:
+
 **Mayor eficiencia operativa:** La automatización de tareas como el registro de ingresos y salidas, y el cálculo de cobros, reducirá el tiempo dedicado a esta actividades manuales, permitiendo al personal enfocarse en brindar un mejor servicio al cliente. 
 
 **Reducción de errores:** Eliminar el registro manual en papel minimizará los errores humanos asociados a la transcripción de datos y al cálculo de tarifas.
