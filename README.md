@@ -60,6 +60,7 @@ No se ofrecen garantías. Es posible que la licencia no le otorgue todos los per
 **Descripciòn general del sofware:** El sofware de gstiòn para el parqueadero Alma Màter serà una aplicaciòn de consola desarrollada en Python, diseñada para automatizar y optimizar las opraciones diarias dl parqueader. Su interfaz sera intuitiva y de fàcil uso para el personal, permitièndoles gestionar eficientemente el ingreso y salida de vehìculos, el registro de usuarios, la generaciòn de cobros y facturas, y la creaciòn de reportes administrativos.
 
 **Objetivos:**
-El objetivo principa de este software es modernizar la gestión del parqueadero, pasando de un sistema manual a uno digitalizado. Esto se logrará mediante las siguientes funcionalidades clase:
+El objetivo principa de este software es modernizar la gestión del parqueadero, pasando de un sistema manual a uno digitalizado. Esto se logrará mediante las siguientes funcionalidades clave:
+**Registros de Usuarios:** Permitir el registro de usuarios frecuentes o visistantes, almacenando información revelante como placa del vehículo y datos de contacto (opcional).
 
 
