@@ -26,6 +26,14 @@ Este proyecto consiste en el desarrollo de un programa de consola en Python para
 
 **Habilidades y Fortalezas:** Me considero una persona responsable, respetuosa y con capacidad para el trabajo en equipo. Me adapto con facilidad a nuevos entornos y aprendo facilmente. Busco mejorar y aportar lo mejor de mí en cada actividad.  
 
+### Dania Paola Lòpez Torres
+
+**Programa** Ingeniería Industrial, Facultad de Ingeniería
+
+**Seccional**: Norte - Yarumal
+
+**Habilidades y Fortalezas:** Me considero una persona tranquila, empàtica y responsable, con capacidad de trabajar en equipo y actitud colaborativa. Busco superar cada una de mis metas personales y profesionales, manteniendo una actitud de mjora continua. 
+
 # Parqueadero Alma Máter 
 Espacio exclusivo para el estacionamiento de automóviles de la comunidad universitaria de la Universidad de Antioquia. Actualemente, el proceso es manual y necesita un sistema en Python para gestionar usuarios, controlar entradas y salidas, generar cobros y emitir reportes. El parqueadero opera de 06:00 am a 12:00 pm con tres empleados en turnos de 6 horas. 
 
