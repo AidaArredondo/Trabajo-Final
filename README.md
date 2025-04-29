@@ -88,3 +88,5 @@ La implementación de este software de gestión traerá consigo una serie de ben
 **Mejor control de ingresos:** El sistema registrará de manera precisa todos los ingresos generados, facilitando la gestión financiera y la detección de posibles inconsistencias.
 
 **Información para la toma de decisiones:** Los reportes administrativos proporcionarán datos valiosos sobre la ocupación del parqueadero, los horarios de mayor demanda, y otros indicadores clave que ayudarán a optimizar la operación y la planificación futura.
+
+## Diagrama de Gantt Chart
