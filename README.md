@@ -39,6 +39,8 @@ Espacio exclusivo para el estacionamiento de automóviles de la comunidad univer
 
 ![Parqueadero](https://www.carroya.com/noticias/sites/default/files/entradillas/432916874parqueadero-tips-cy.jpg)
 
+![Parqueadero Alma Máter](2B176324-633B-4F82-A0E6-C8611C543770.png)
+
 # Licencia de Software
 La liecencia recomendada para el software es **Creative Commons Atribución 4.0 Internacional**
 Esta licencia exige que los reutilizadores den crédito al creador. Permite distribuir, remezclar, adaptar y desarrollar el material en cualquier medio o formato, incluso con fines comerciales.
