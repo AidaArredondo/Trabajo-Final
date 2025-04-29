@@ -56,7 +56,7 @@ No tiene que cumplir con la licencia para elementos del material de dominio púb
 No se ofrecen garantías. Es posible que la licencia no le otorgue todos los permisos necesarios para el uso previsto. Por ejemplo, otros derechos como la publicidad, la privacidad o los derechos morales pueden limitar el modo en que utiliza el material.
 
 
-# Reporte de visiòn: Software de gestiòn para el parqueadero Alma Màter
+## Reporte de visiòn: Software de gestiòn para el parqueadero Alma Màter
 **Descripciòn general del sofware:** 
 
 El sofware de gstiòn para el parqueadero Alma Màter serà una aplicaciòn de consola desarrollada en Python, diseñada para automatizar y optimizar las opraciones diarias dl parqueader. Su interfaz sera intuitiva y de fàcil uso para el personal, permitièndoles gestionar eficientemente el ingreso y salida de vehìculos, el registro de usuarios, la generaciòn de cobros y facturas, y la creaciòn de reportes administrativos.
