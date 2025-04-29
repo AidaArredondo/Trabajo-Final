@@ -70,4 +70,6 @@ El objetivo principa de este software es modernizar la gestión del parqueadero,
 
 **Interfaz de consola amigable:** Desarrollar una interfaz de línea de comandos en Python que sea visualmente organizada y fácil de navegar para los operarios del parqueadero.
 
+**Exportación de datos:** Permitir la exportaci8ón de los datos generados (registros, cobros, etc.) a un archivo plano en formato CSV para su posterior análisis o almacenamiento.
+
 
