@@ -61,30 +61,30 @@ No se ofrecen garantías. Es posible que la licencia no le otorgue todos los per
 
 El sofware de gstiòn para el parqueadero Alma Màter serà una aplicaciòn de consola desarrollada en Python, diseñada para automatizar y optimizar las opraciones diarias dl parqueader. Su interfaz sera intuitiva y de fàcil uso para el personal, permitièndoles gestionar eficientemente el ingreso y salida de vehìculos, el registro de usuarios, la generaciòn de cobros y facturas, y la creaciòn de reportes administrativos.
 
-# **Objetivos:**
+### **Objetivos:**
 El objetivo principa de este software es modernizar la gestión del parqueadero, pasando de un sistema manual a uno digitalizado. Esto se logrará mediante las siguientes funcionalidades clave:
 
-## **Registros de Usuarios:** Permitir el registro de usuarios frecuentes o visistantes, almacenando información revelante como placa del vehículo y datos de contacto (opcional).
+**Registros de Usuarios:** Permitir el registro de usuarios frecuentes o visistantes, almacenando información revelante como placa del vehículo y datos de contacto (opcional).
 
-## **Gestión de ingreso y salidas de vehículos:** Facilitar el registro de la hora y la fecha d eingreso de cada automóvil al parqueadero, así como la asignación del espacio de parqueo seleccionado. De igual manera, registrar la hora y fecha de sañlida del vehículo. 
+**Gestión de ingreso y salidas de vehículos:** Facilitar el registro de la hora y la fecha d eingreso de cada automóvil al parqueadero, así como la asignación del espacio de parqueo seleccionado. De igual manera, registrar la hora y fecha de sañlida del vehículo. 
 
-## **Cálculo automático de cobros:** Implementar un sistema de cálculo automátixo del valor a oagar por el tiempo de estacionamiento, considerando tarifas por hora y fracción. 
+**Cálculo automático de cobros:** Implementar un sistema de cálculo automátixo del valor a oagar por el tiempo de estacionamiento, considerando tarifas por hora y fracción. 
 
-## **Generación de facturas:** Crear la funcinalidad para generar facturas digitales para los usuarios que lo requieran, detallando el tiempo de estacionamiento y el valor pagado. 
+**Generación de facturas:** Crear la funcinalidad para generar facturas digitales para los usuarios que lo requieran, detallando el tiempo de estacionamiento y el valor pagado. 
 
-## **Generación de reportes administrativos:** Producir reportes periódicos que permitan al administrador del parqueadero tener una visión clara de la ocupación, los ingresos generados, el flujo de vehículos, y otros datos relevantes para la toma de decisiones. 
+**Generación de reportes administrativos:** Producir reportes periódicos que permitan al administrador del parqueadero tener una visión clara de la ocupación, los ingresos generados, el flujo de vehículos, y otros datos relevantes para la toma de decisiones. 
 
-## **Interfaz de consola amigable:** Desarrollar una interfaz de línea de comandos en Python que sea visualmente organizada y fácil de navegar para los operarios del parqueadero.
+**Interfaz de consola amigable:** Desarrollar una interfaz de línea de comandos en Python que sea visualmente organizada y fácil de navegar para los operarios del parqueadero.
 
-## **Exportación de datos:** Permitir la exportación de los datos generados (registros, cobros, etc.) a un archivo plano en formato CSV para su posterior análisis o almacenamiento.
+**Exportación de datos:** Permitir la exportación de los datos generados (registros, cobros, etc.) a un archivo plano en formato CSV para su posterior análisis o almacenamiento.
 
-# **Beneficios:**
+### **Beneficios:**
 La implementación de este software de gestión traerá consigo una serie de beneficios significativos para el parqueadero Alma Máter, los cuales son:
 
-## **Mayor eficiencia operativa:** La automatización de tareas como el registro de ingresos y salidas, y el cálculo de cobros, reducirá el tiempo dedicado a esta actividades manuales, permitiendo al personal enfocarse en brindar un mejor servicio al cliente. 
+**Mayor eficiencia operativa:** La automatización de tareas como el registro de ingresos y salidas, y el cálculo de cobros, reducirá el tiempo dedicado a esta actividades manuales, permitiendo al personal enfocarse en brindar un mejor servicio al cliente. 
 
-## **Reducción de errores:** Eliminar el registro manual en papel minimizará los errores humanos asociados a la transcripción de datos y al cálculo de tarifas.
+**Reducción de errores:** Eliminar el registro manual en papel minimizará los errores humanos asociados a la transcripción de datos y al cálculo de tarifas.
 
-## **Mejor control de ingresos:** El sistema registrará de manera precisa todos los ingresos generados, facilitando la gestión financiera y la detección de posibles inconsistencias.
+**Mejor control de ingresos:** El sistema registrará de manera precisa todos los ingresos generados, facilitando la gestión financiera y la detección de posibles inconsistencias.
 
-## **Información para la toma de decisiones:** Los reportes administrativos proporcionarán datos valiosos sobre la ocupación del parqueadero, los horarios de mayor demanda, y otros indicadores clave que ayudarán a optimizar la operación y la planificación futura.
+**Información para la toma de decisiones:** Los reportes administrativos proporcionarán datos valiosos sobre la ocupación del parqueadero, los horarios de mayor demanda, y otros indicadores clave que ayudarán a optimizar la operación y la planificación futura.
