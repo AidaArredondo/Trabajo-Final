@@ -75,3 +75,9 @@ El objetivo principa de este software es modernizar la gestión del parqueadero,
 **Beneficios:**
 La implementación de este software de gestión traerá consigo una serie de beneficios significativos para el parqueadero Alma Máter, los cuales son:
 **Mayor eficiencia operativa:** La automatización de tareas como el registro de ingresos y salidas, y el cálculo de cobros, reducirá el tiempo dedicado a esta actividades manuales, permitiendo al personal enfocarse en brindar un mejor servicio al cliente. 
+
+**Reducción de errores:** Eliminar el registro manual en papel minimizará los errores humanos asociados a la transcripción de datos y al cálculo de tarifas.
+
+**Mejor control de ingresos:** El sistema registrará de manera precisa todos los ingresos generados, facilitando la gestión financiera y la detección de posibles inconsistencias.
+
+**Información para la toma de decisiones:** Los reportes administrativos proporcionarán datos valiosos sobre la ocupación del parqueadero, los horarios de mayor demanda, y otros indicadores clave que ayudarán a optimizar la operación y la planificación futura.
