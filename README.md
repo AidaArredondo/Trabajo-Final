@@ -90,4 +90,4 @@ La implementación de este software de gestión traerá consigo una serie de ben
 **Información para la toma de decisiones:** Los reportes administrativos proporcionarán datos valiosos sobre la ocupación del parqueadero, los horarios de mayor demanda, y otros indicadores clave que ayudarán a optimizar la operación y la planificación futura.
 
 ## Diagrama de Gantt Chart
-![Diagrama de Gantt](Diagrama de gantt Trabajo de Algoritmia y Programación_page-0001.jpg).
+![Diagrama de Gantt](https://github.com/AidaArredondo/Trabajo-Final/blob/65ce581693a8f46c7df2a7e0c6c71d0f794ada7d/Diagrama%20de%20gantt%20Trabajo%20de%20Algoritmia%20y%20Programaci%C3%B3n_page-0001.jpg)
