@@ -62,5 +62,8 @@ No se ofrecen garantías. Es posible que la licencia no le otorgue todos los per
 **Objetivos:**
 El objetivo principa de este software es modernizar la gestión del parqueadero, pasando de un sistema manual a uno digitalizado. Esto se logrará mediante las siguientes funcionalidades clave:
 **Registros de Usuarios:** Permitir el registro de usuarios frecuentes o visistantes, almacenando información revelante como placa del vehículo y datos de contacto (opcional).
+**Gestión de ingreso y salidas de vehículos:** Facilitar el registro de la hora y la fecha d eingreso de cada automóvil al parqueadero, así como la asignación del espacio de parqueo seleccionado. De igual manera, registrar la hora y fecha de sañlida del vehículo. 
+**Cálculo automático de cobros: Implementar un sistema de cálculo automátixo del valor a oagar por el tiempo de estacionamiento, considerando tarifas por hora y fracción. 
+**Generación de facturas:** Crear la funcinalidad para generar facturas digitales para los usuarios que lo requieran, detallando el tiempo de estacionamiento y el valor pagado. 
 
 
