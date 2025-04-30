@@ -122,3 +122,35 @@ La implementación de este software de gestión traerá consigo una serie de ben
 **Gestión del espacio del parqueo**
 
 - Llevar el control del total de espacios disponibles (64 en total).
+
+## Requisitos no funcionales
+
+**Usabilidad:**
+
+- Interfaz por consola clara, intutitiva y amigable.
+
+- Mensajes de error comprensibles.
+
+  **Rendimiento:**
+
+  - Respuesta rápida en operaciones (registro,ingreso,retiro, consulta).
+ 
+  - Capacidad para mejorar múltiples registros sin afectar el rendimiento.
+ 
+  **Fiabilidad:**
+
+  - Garantía de integridad de datos.
+ 
+  - Validaciones constantes para evitar errores o duplicados.
+ 
+  **Seguridad:**
+
+  - Acceso a administración protegido con usuario y contraseña.
+ 
+  - Validación de datos para prevenir entradas maliciosas
+ 
+  **Compatbilidad:**
+
+  - Compatible con entorni Phyton estándar (Windows. Linux, MacOS).
+ 
+  - Exportación de archivos .CSV legibles en excel o Google Sheets
