@@ -26,13 +26,13 @@ Este proyecto consiste en el desarrollo de un programa de consola en Python para
 
 **Habilidades y Fortalezas:** Me considero una persona responsable, respetuosa y con capacidad para el trabajo en equipo. Me adapto con facilidad a nuevos entornos y aprendo facilmente. Busco mejorar y aportar lo mejor de mí en cada actividad.  
 
-### Dania Paola Lòpez Torres
+### Dania Paola López Torres
 
 **Programa** Ingeniería Industrial, Facultad de Ingeniería
 
 **Seccional**: Norte - Yarumal
 
-**Habilidades y Fortalezas:** Me considero una persona tranquila, empàtica y responsable, con capacidad de trabajar en equipo y actitud colaborativa. Busco superar cada una de mis metas personales y profesionales, manteniendo una actitud de mejora continua. 
+**Habilidades y Fortalezas:** Me considero una persona tranquila, empática y responsable, con capacidad de trabajar en equipo y actitud colaborativa. Busco superar cada una de mis metas personales y profesionales, manteniendo una actitud de mejora continua. 
 
 # Parqueadero Alma Máter 
 Espacio exclusivo para el estacionamiento de automóviles de la comunidad universitaria de la Universidad de Antioquia. Actualemente, el proceso es manual y necesita un sistema en Python para gestionar usuarios, controlar entradas y salidas, generar cobros y emitir reportes. El parqueadero opera de 06:00 am a 12:00 pm con tres empleados en turnos de 6 horas. 
@@ -56,13 +56,13 @@ No tiene que cumplir con la licencia para elementos del material de dominio púb
 No se ofrecen garantías. Es posible que la licencia no le otorgue todos los permisos necesarios para el uso previsto. Por ejemplo, otros derechos como la publicidad, la privacidad o los derechos morales pueden limitar el modo en que utiliza el material.
 
 
-## Reporte de visiòn: Software de gestiòn para el parqueadero Alma Màter
-**Descripciòn general del sofware:** 
+## Reporte de visión: Software de gestión para el parqueadero Alma Máter
+**Descripción general del sofware:** 
 
-El sofware de gstiòn para el parqueadero Alma Màter serà una aplicaciòn de consola desarrollada en Python, diseñada para automatizar y optimizar las opraciones diarias dl parqueader. Su interfaz sera intuitiva y de fàcil uso para el personal, permitièndoles gestionar eficientemente el ingreso y salida de vehìculos, el registro de usuarios, la generaciòn de cobros y facturas, y la creaciòn de reportes administrativos.
+El sofware de gstión para el parqueadero Alma Máter será una aplicación de consola desarrollada en Python, diseñada para automatizar y optimizar las opraciones diarias del parqueadero. Su interfaz sera intuitiva y de fácil uso para el personal, permitiéndoles gestionar eficientemente el ingreso y salida de vehículos, el registro de usuarios, la generación de cobros y facturas, y la creación de reportes administrativos.
 
 ### **Objetivos:**
-El objetivo principa de este software es modernizar la gestión del parqueadero, pasando de un sistema manual a uno digitalizado. Esto se logrará mediante las siguientes funcionalidades clave:
+El objetivo principal de este software es modernizar la gestión del parqueadero, pasando de un sistema manual a uno digitalizado. Esto se logrará mediante las siguientes funcionalidades clave:
 
 **Registros de Usuarios:** Permitir el registro de usuarios frecuentes o visistantes, almacenando información revelante como placa del vehículo y datos de contacto (opcional).
 
@@ -89,11 +89,11 @@ La implementación de este software de gestión traerá consigo una serie de ben
 
 **Información para la toma de decisiones:** Los reportes administrativos proporcionarán datos valiosos sobre la ocupación del parqueadero, los horarios de mayor demanda, y otros indicadores clave que ayudarán a optimizar la operación y la planificación futura.
 
-**Mejora en la expriencia del usuario:** La posibilidad de generar facturas y la agilizaciòn del proceso de pago pueden mejorar la sasisfacciòn de los usuarios del parqueadero.
+**Mejora en la expriencia del usuario:** La posibilidad de generar facturas y la agilización del proceso de pago pueden mejorar la sasisfacción de los usuarios del parqueadero.
 
-**Profesionalizaciòn de la imagen:** La implementaciòn de un sistema digitalizado proyectarà una imagen màs moderna y profesional del parqueadero.
+**Profesionalización de la imagen:** La implementaciòn de un sistema digitalizado proyectará una imagen más moderna y profesional del parqueadero.
 
-**Facilidad de seguimiento:** El registro digital de los vehìculos y los usuarios facilitarà el seguimiento en caso de cualquier eventualidad.
+**Facilidad de seguimiento:** El registro digital de los vehículos y los usuarios facilitará el seguimiento en caso de cualquier eventualidad.
 
 ## Diagrama de Gantt Chart
 ![Diagrama de Gantt](https://github.com/AidaArredondo/Trabajo-Final/blob/fa293c8245a3578ff2315fde0d0477ebf235713b/Diagrama%20de%20gantt%2029%20de%20abril_page-0001.jpg)
