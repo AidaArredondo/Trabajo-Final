@@ -6,7 +6,7 @@
  
 
 ## Descripción
-Este proyecto consiste en el desarrollo de un programa de consola en Python para gestionar el parqueadero(Nombre) que presta servicio exclusivvamente a automóviles en el sector de la Universidad de Antioquia. El software permitirá registrar usuarios, ingresar y retirar vehículos, generar cobros, facturas básicas, resportes administrativos y exportar la información a archivos CSV.
+Este proyecto consiste en el desarrollo de un programa de consola en Python para gestionar el parqueadero Alma Máter que presta servicio exclusivamente a automóviles en el sector de la Universidad de Antioquia. El software permitirá registrar usuarios, ingresar y retirar vehículos, generar cobros, facturas básicas, reportes administrativos y exportar la información a archivos CSV.
 
 ## Vínculos académicos y descripción
 
@@ -40,7 +40,7 @@ Espacio exclusivo para el estacionamiento de automóviles de la comunidad univer
 ![Parqueadero Alma Máter](https://github.com/AidaArredondo/Trabajo-Final/blob/7d8426452a3a4366859b99315a22bae65fe32c10/Imagen%20Parqueadero%20del%20Proyecto.png)
 
 # Licencia de Software
-La liecencia recomendada para el software es **Creative Commons Atribución 4.0 Internacional**
+La licencia recomendada para el software es **Creative Commons Atribución 4.0 Internacional**
 Esta licencia exige que los reutilizadores den crédito al creador. Permite distribuir, remezclar, adaptar y desarrollar el material en cualquier medio o formato, incluso con fines comerciales.
 
 Con esta liencia se tiene libertad para:
@@ -59,18 +59,18 @@ No se ofrecen garantías. Es posible que la licencia no le otorgue todos los per
 ## Reporte de visión: Software de gestión para el parqueadero Alma Máter
 **Descripción general del sofware:** 
 
-El sofware de gstión para el parqueadero Alma Máter será una aplicación de consola desarrollada en Python, diseñada para automatizar y optimizar las opraciones diarias del parqueadero. Su interfaz sera intuitiva y de fácil uso para el personal, permitiéndoles gestionar eficientemente el ingreso y salida de vehículos, el registro de usuarios, la generación de cobros y facturas, y la creación de reportes administrativos.
+El sofware de gestión para el parqueadero Alma Máter será una aplicación de consola desarrollada en Python, diseñada para automatizar y optimizar las opraciones diarias del parqueadero. Su interfaz sera intuitiva y de fácil uso para el personal, permitiéndoles gestionar eficientemente el ingreso y salida de vehículos, el registro de usuarios, la generación de cobros y facturas, y la creación de reportes administrativos.
 
 ### **Objetivos:**
 El objetivo principal de este software es modernizar la gestión del parqueadero, pasando de un sistema manual a uno digitalizado. Esto se logrará mediante las siguientes funcionalidades clave:
 
 **Registros de Usuarios:** Permitir el registro de usuarios frecuentes o visistantes, almacenando información revelante como placa del vehículo y datos de contacto (opcional).
 
-**Gestión de ingreso y salidas de vehículos:** Facilitar el registro de la hora y la fecha d eingreso de cada automóvil al parqueadero, así como la asignación del espacio de parqueo seleccionado. De igual manera, registrar la hora y fecha de sañlida del vehículo. 
+**Gestión de ingreso y salidas de vehículos:** Facilitar el registro de la hora y la fecha de ingreso de cada automóvil al parqueadero, así como la asignación del espacio de parqueo seleccionado. De igual manera, registrar la hora y fecha de salida del vehículo. 
 
-**Cálculo automático de cobros:** Implementar un sistema de cálculo automátixo del valor a oagar por el tiempo de estacionamiento, considerando tarifas por hora y fracción. 
+**Cálculo automático de cobros:** Implementar un sistema de cálculo automático del valor a pagar por el tiempo de estacionamiento, considerando tarifas por hora y fracción. 
 
-**Generación de facturas:** Crear la funcinalidad para generar facturas digitales para los usuarios que lo requieran, detallando el tiempo de estacionamiento y el valor pagado. 
+**Generación de facturas:** Crear la funcionalidad para generar facturas digitales para los usuarios que lo requieran, detallando el tiempo de estacionamiento y el valor pagado. 
 
 **Generación de reportes administrativos:** Producir reportes periódicos que permitan al administrador del parqueadero tener una visión clara de la ocupación, los ingresos generados, el flujo de vehículos, y otros datos relevantes para la toma de decisiones. 
 
