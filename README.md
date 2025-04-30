@@ -113,3 +113,11 @@ La implementación de este software de gestión traerá consigo una serie de ben
 - Listado de usuarios registrados.
 
 - Vehículo con mayor y menor tiempo de permanencia.
+
+  **Exportación de datos**
+
+  -Exportar los reportes y registros a un archivo plano (.CSV).
+
+  **Gestión del espacio del parqueo**
+
+  -Llevar el control del total de espacios disponibles (64 en total).
