@@ -114,10 +114,11 @@ La implementación de este software de gestión traerá consigo una serie de ben
 
 - Vehículo con mayor y menor tiempo de permanencia.
 
-  **Exportación de datos**
+**Exportación de datos**
 
-  -Exportar los reportes y registros a un archivo plano (.CSV).
+- Exportar los reportes y registros a un archivo plano (.CSV).
+  
 
-  **Gestión del espacio del parqueo**
+**Gestión del espacio del parqueo**
 
-  -Llevar el control del total de espacios disponibles (64 en total).
+- Llevar el control del total de espacios disponibles (64 en total).
