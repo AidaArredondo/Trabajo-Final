@@ -108,12 +108,20 @@ Acciones y comportamientos específicos que debe realizar el sistema del parquea
 - Nombre y apellido: mínimo tres letras, sin números.
 - Documento: entre 3 y 15 caracteres, solo dígitos.
 - Placa: exactamente seis caracteres (tres letras seguidas de tres números)
+  
 **Ingreso de vehículos:**
   - solo se permite el ingreso de vehículos registrados.
   - Registro de hora y minuto de entrada.
   - Generación de un recibo virtual al ingresar.
-  - 
-
+    
+ **Retiro de vehículos:**
+- Validación de que el usuario y el vehículo estén registrados.
+- Cálculo del tiempo de permanencia y cobro:
+  -$ 7000 por hora completa
+  -$ 1500 por cada cuarto de hora adicional
+  - Mínimo a pagar $ 7000
+  - Generación de facturas en pantalla al salir. 
+  
 **Reportes administrativos (acceso restringido por usuario y contraseña)**
 
 - Total de vehículos registrados.
