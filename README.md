@@ -98,6 +98,22 @@ La implementación de este software de gestión traerá consigo una serie de ben
 ## Diagrama de Gantt Chart
 ![Diagrama de Gantt](https://github.com/AidaArredondo/Trabajo-Final/blob/fa293c8245a3578ff2315fde0d0477ebf235713b/Diagrama%20de%20gantt%2029%20de%20abril_page-0001.jpg)
 
+**Gestión operativa del parqueadero:**
+
+**Requisitos funcionales:**
+Acciones y comportamientos específicos que debe realizar el sistema del parqueadero Alma Máter. Estos incluyen:
+
+**Gestión de usuarios:**
+- Registrar nuevos usuarios con validaciones
+- Nombre y apellido: mínimo tres letras, sin números.
+- Documento: entre 3 y 15 caracteres, solo dígitos.
+- Placa: exactamente seis caracteres (tres letras seguidas de tres números)
+**Ingreso de vehículos:**
+  - solo se permite el ingreso de vehículos registrados.
+  - Registro de hora y minuto de entrada.
+  - Generación de un recibo virtual al ingresar.
+  - 
+
 **Reportes administrativos (acceso restringido por usuario y contraseña)**
 
 - Total de vehículos registrados.
