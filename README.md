@@ -123,7 +123,7 @@ La implementación de este software de gestión traerá consigo una serie de ben
 
 - Llevar el control del total de espacios disponibles (64 en total).
 
-## Requisitos no funcionales
+### **Requisitos no funcionales**
 
 **Usabilidad:**
 
@@ -131,26 +131,26 @@ La implementación de este software de gestión traerá consigo una serie de ben
 
 - Mensajes de error comprensibles.
 
-  **Rendimiento:**
+ **Rendimiento:**
 
-  - Respuesta rápida en operaciones (registro,ingreso,retiro, consulta).
+ - Respuesta rápida en operaciones (registro,ingreso,retiro, consulta).
  
-  - Capacidad para mejorar múltiples registros sin afectar el rendimiento.
+ - Capacidad para mejorar múltiples registros sin afectar el rendimiento.
  
-  **Fiabilidad:**
+ **Fiabilidad:**
 
-  - Garantía de integridad de datos.
+ - Garantía de integridad de datos.
  
-  - Validaciones constantes para evitar errores o duplicados.
+ - Validaciones constantes para evitar errores o duplicados.
  
-  **Seguridad:**
+ **Seguridad:**
 
-  - Acceso a administración protegido con usuario y contraseña.
+ - Acceso a administración protegido con usuario y contraseña.
  
-  - Validación de datos para prevenir entradas maliciosas
+ - Validación de datos para prevenir entradas maliciosas
  
-  **Compatbilidad:**
+ **Compatbilidad:**
 
-  - Compatible con entorni Phyton estándar (Windows. Linux, MacOS).
+ - Compatible con entorni Phyton estándar (Windows. Linux, MacOS).
  
-  - Exportación de archivos .CSV legibles en excel o Google Sheets
+ - Exportación de archivos .CSV legibles en excel o Google Sheets
