@@ -89,5 +89,11 @@ La implementación de este software de gestión traerá consigo una serie de ben
 
 **Información para la toma de decisiones:** Los reportes administrativos proporcionarán datos valiosos sobre la ocupación del parqueadero, los horarios de mayor demanda, y otros indicadores clave que ayudarán a optimizar la operación y la planificación futura.
 
+**Mejora en la expriencia del usuario:** La posibilidad de generar facturas y la agilizaciòn del proceso de pago pueden mejorar la sasisfacciòn de los usuarios del parqueadero.
+
+**Profesionalizaciòn de la imagen:** La implementaciòn de un sistema digitalizado proyectarà una imagen màs moderna y profesional del parqueadero.
+
+**Facilidad de seguimiento:** El registro digital de los vehìculos y los usuarios facilitarà el seguimiento en caso de cualquier eventualidad.
+
 ## Diagrama de Gantt Chart
 ![Diagrama de Gantt](https://github.com/AidaArredondo/Trabajo-Final/blob/fa293c8245a3578ff2315fde0d0477ebf235713b/Diagrama%20de%20gantt%2029%20de%20abril_page-0001.jpg)
