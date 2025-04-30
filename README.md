@@ -97,3 +97,19 @@ La implementación de este software de gestión traerá consigo una serie de ben
 
 ## Diagrama de Gantt Chart
 ![Diagrama de Gantt](https://github.com/AidaArredondo/Trabajo-Final/blob/fa293c8245a3578ff2315fde0d0477ebf235713b/Diagrama%20de%20gantt%2029%20de%20abril_page-0001.jpg)
+
+**Reportes administrativos (acceso restringido por usuario y contraseña)**
+
+- Total de vehículos registrados.
+
+- Total de vehículos retirados.
+
+- Total de vehículos actualmente en el parqueadero.
+
+- Total de dinero recibido por cobros.
+
+- Tiempo promedio de permanencia por vehículo.
+
+- Listado de usuarios registrados.
+
+- Vehículo con mayor y menor tiempo de permanencia.
