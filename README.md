@@ -120,7 +120,7 @@ Acciones y comportamientos específicos que debe realizar el sistema del parquea
   -$ 7000 por hora completa
   -$ 1500 por cada cuarto de hora adicional
   - Mínimo a pagar $ 7000
-  - Generación de facturas en pantalla al salir. 
+- Generación de facturas en pantalla al salir. 
   
 **Reportes administrativos (acceso restringido por usuario y contraseña)**
 
