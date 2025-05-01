@@ -98,6 +98,12 @@ La implementación de este software de gestión traerá consigo una serie de ben
 ## Diagrama de Gantt Chart
 ![Diagrama de Gantt](https://github.com/AidaArredondo/Trabajo-Final/blob/fa293c8245a3578ff2315fde0d0477ebf235713b/Diagrama%20de%20gantt%2029%20de%20abril_page-0001.jpg)
 
+## Presupuesto estimado del proyecto software para el parqueadero Alma Máter:
+
+**Base del cálculo:**
+A partir del 1 de enero del 2025, en Colombia aplica la reducción de la jornada laboral a 46 horas semanales, lo que da como resultado 230 horas laboradas en el mes.
+Con base en el salario mínimo legal vigente (SMLV) para ese año, el valor de la hora ordinaria queda en $6.189.
+
 **Gestión operativa del parqueadero:**
 
 **Requisitos funcionales:**
