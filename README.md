@@ -192,3 +192,7 @@ Estas horas no se pagarán en dinero, sino que corresponden a tiempo de práctic
 **Cálculo:**
 
 50 horas * $6.189 = $309.450
+
+Total estimado por el tiempo invertido: $309.450 COP
+
+Este valor representa lo que costaría el tiempo invertido si se pagará como una práctica profesional, aunque no será remunerado económicamente.
