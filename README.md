@@ -24,7 +24,7 @@ Este proyecto consiste en el desarrollo de un programa de consola en Python para
 
 **Seccional**: Urabá - Turbo
 
-**Habilidades y Fortalezas:** Me considero una persona responsable, respetuosa y con capacidad para el trabajo en equipo. Me adapto con facilidad a nuevos entornos y aprendo facilmente. Busco mejorar y aportar lo mejor de mí en cada actividad.  
+**Habilidades y Fortalezas:** Me considero una persona responsable, respetuosa y con capacidad para el trabajo en equipo. Me adapto con facilidad a nuevos entornos y aprendo fácilmente. Busco mejorar y aportar lo mejor de mí en cada actividad.  
 
 ### Dania Paola López Torres
 
@@ -43,7 +43,7 @@ Espacio exclusivo para el estacionamiento de automóviles de la comunidad univer
 La licencia recomendada para el software es **Creative Commons Atribución 4.0 Internacional**
 Esta licencia exige que los reutilizadores den crédito al creador. Permite distribuir, remezclar, adaptar y desarrollar el material en cualquier medio o formato, incluso con fines comerciales.
 
-Con esta liencia se tiene libertad para:
+Con esta licencia se tiene libertad para:
 Compartir: copiar y redistribuir el material en cualquier medio o formato para cualquier propósito, incluso comercial.
 Adaptar: remezclar, transformar y desarrollar el material para cualquier propósito, incluso comercial.
 El licenciante no puede revocar estas libertades siempre que cumpla con los términos de la licencia.
@@ -57,14 +57,14 @@ No se ofrecen garantías. Es posible que la licencia no le otorgue todos los per
 
 
 ## Reporte de visión: Software de gestión para el parqueadero Alma Máter
-**Descripción general del sofware:** 
+**Descripción general del software:** 
 
-El sofware de gestión para el parqueadero Alma Máter será una aplicación de consola desarrollada en Python, diseñada para automatizar y optimizar las opraciones diarias del parqueadero. Su interfaz sera intuitiva y de fácil uso para el personal, permitiéndoles gestionar eficientemente el ingreso y salida de vehículos, el registro de usuarios, la generación de cobros y facturas, y la creación de reportes administrativos.
+El software de gestión para el parqueadero Alma Máter será una aplicación de consola desarrollada en Python, diseñada para automatizar y optimizar las opraciones diarias del parqueadero. Su interfaz sera intuitiva y de fácil uso para el personal, permitiéndoles gestionar eficientemente el ingreso y salida de vehículos, el registro de usuarios, la generación de cobros y facturas, y la creación de reportes administrativos.
 
 ### **Objetivos:**
 El objetivo principal de este software es modernizar la gestión del parqueadero, pasando de un sistema manual a uno digitalizado. Esto se logrará mediante las siguientes funcionalidades clave:
 
-**Registros de Usuarios:** Permitir el registro de usuarios frecuentes o visistantes, almacenando información revelante como placa del vehículo y datos de contacto (opcional).
+**Registros de Usuarios:** Permitir el registro de usuarios frecuentes o visitantes, almacenando información relevante como placa del vehículo y datos de contacto (opcional).
 
 **Gestión de ingreso y salidas de vehículos:** Facilitar el registro de la hora y la fecha de ingreso de cada automóvil al parqueadero, así como la asignación del espacio de parqueo seleccionado. De igual manera, registrar la hora y fecha de salida del vehículo. 
 
@@ -94,9 +94,10 @@ La implementación de este software de gestión traerá consigo una serie de ben
 **Profesionalización de la imagen:** La implementaciòn de un sistema digitalizado proyectará una imagen más moderna y profesional del parqueadero.
 
 **Facilidad de seguimiento:** El registro digital de los vehículos y los usuarios facilitará el seguimiento en caso de cualquier eventualidad.
-**Gestión operativa del parqueadero:**
 
-**Requisitos funcionales:**
+##**Gestión operativa del parqueadero:**
+
+###**Requisitos funcionales:**
 Acciones y comportamientos específicos que debe realizar el sistema del parqueadero Alma Máter. Estos incluyen:
 
 **Gestión de usuarios:**
@@ -113,9 +114,9 @@ Acciones y comportamientos específicos que debe realizar el sistema del parquea
  **Retiro de vehículos:**
 - Validación de que el usuario y el vehículo estén registrados.
 - Cálculo del tiempo de permanencia y cobro:
-  -$ 7000 por hora completa
-  -$ 1500 por cada cuarto de hora adicional
-  - Mínimo a pagar $ 7000
+-$ 7000 por hora completa
+-$ 1500 por cada cuarto de hora adicional
+- Mínimo a pagar $ 7000
 - Generación de facturas en pantalla al salir. 
   
 **Reportes administrativos (acceso restringido por usuario y contraseña)**
