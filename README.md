@@ -177,7 +177,7 @@ Acciones y comportamientos específicos que debe realizar el sistema del parquea
  - Exportación de archivos .CSV legibles en excel o Google Sheets
 
 ## Diagrama de Gantt Chart
-![Diagrama de Gantt](https://github.com/AidaArredondo/Trabajo-Final/blob/fa293c8245a3578ff2315fde0d0477ebf235713b/Diagrama%20de%20gantt%2029%20de%20abril_page-0001.jpg)
+![Diagrama de Gantt](https://github.com/AidaArredondo/Trabajo-Final/blob/6888c53c517c1a931669027f40428da9489d0813/Diagrama%20de%20Gantt%20Final%20(1)_page-0001.jpg)
 
 ## Presupuesto estimado del proyecto software para el parqueadero Alma Máter:
 
