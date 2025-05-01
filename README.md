@@ -95,9 +95,9 @@ La implementación de este software de gestión traerá consigo una serie de ben
 
 **Facilidad de seguimiento:** El registro digital de los vehículos y los usuarios facilitará el seguimiento en caso de cualquier eventualidad.
 
-##**Gestión operativa del parqueadero:**
+## **Gestión operativa del parqueadero:**
 
-###**Requisitos funcionales:**
+### **Requisitos funcionales:**
 Acciones y comportamientos específicos que debe realizar el sistema del parqueadero Alma Máter. Estos incluyen:
 
 **Gestión de usuarios:**
