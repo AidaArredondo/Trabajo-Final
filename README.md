@@ -2,8 +2,8 @@
 ## Integrantes
 - Aida Andrea Arredondo Silva
 - Natalia Restrepo Calvo
-- Paola López
- 
+- Dania Paola López Torres
+   
 
 ## Descripción
 Este proyecto consiste en el desarrollo de un programa de consola en Python para gestionar el parqueadero Alma Máter que presta servicio exclusivamente a automóviles en el sector de la Universidad de Antioquia. El software permitirá registrar usuarios, ingresar y retirar vehículos, generar cobros, facturas básicas, reportes administrativos y exportar la información a archivos CSV.
