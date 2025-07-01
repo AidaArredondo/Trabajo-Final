@@ -46,4 +46,19 @@ Al iniciar verás el menú principal:
 ===================================
 
 ## Funcionalidades del sistema 
-### 1. Registrar usuario
+### 1. Registrar usuario: Permite registrar nuevos usuarios en el sistema con la sisguientes validaciones y se debe usar antes de que un cliente use el parqueadero por primera vez. 
+*Datos requeridos*
+-*Nombre*: Mínimo 3 letras, solo caracteres alfabéticos 
+-*Apellido*: Mínimo 3 letras, solo caracteres alfabéticos
+-*Documentos*: Entre 3 y 15 dígitos, solo números 
+-*Placa*: Exactamente 6 caracteres (3 letras mas (+) 3 números)
+
+*Ejemplo*
+Nombre: Juan
+Apellido: Pérez
+Documento: 12345678
+Placa: ABC123
+
+
+
+
