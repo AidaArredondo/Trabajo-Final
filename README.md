@@ -206,6 +206,7 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 ### **v0.1 - Estructura Inicial del Programa**
 
 **Fecha:** 14 de mayo de 2025 (Inicio del desarrollo del programa)
+
 **Procedimientos realizados:**
 - Creación de la estructura básica del programa Python
 - Implementación del menú principal
@@ -217,6 +218,7 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 ### **v0.2 - Módulo de Registro de Usuarios**
 
 **Fecha:** 18 de Mayo de 2025
+
 **Procedimientos realizados:**
 - Implementación de función de registro de usuarios
 - Desarrollo de validaciones para nombre y apellido
@@ -229,6 +231,7 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 ### **v0.3 - Módulo de Ingreso de Vehículos**
 
 **Feccha:** 22 de mayo de 2025
+
 **Procedimientos realizados:**
 - Implementación de función de ingreso de vehículos
 - Validación de usuarios registrados
@@ -239,7 +242,9 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 **Estado:** Completado
 
 ### **v0.4 - Sistema de Cálculo de Tarifas**
+
 **Fecha:** 26 de mayo de 2025
+
 **Procedimientos realizados:**
 - Implementación de cálculo de tiempo de permanencia
 - Desarrollo de algoritmo de cobro por horas ($7.000)
@@ -252,6 +257,7 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 ### **v0.5 - Módulo de Retiro de Vehículos**
 
 **Fecha:** 29 de mayo de 2025
+
 **Procedimientos realizados:**
 - Implementación de función de retiro de vehículos
 - Integración con sistema de cálculo de tarifas
@@ -264,6 +270,7 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 ### **v1.0 - Módulo de Administrador**
 
 **Fecha:** 02 de junio de 2025
+
 **Procedimientos realizados:**
 - Implementación de sistema de autenticación de administrador
 - Desarrollo de reporte de total de vehículos registrados
@@ -277,6 +284,7 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 ## **v1.1 - Optimización y Corrección de Errores**
 
 **Fecha:** 08 de junio de 2025
+
 **Procedimientos realizados:**
 - Corrección de errores en validaciones
 - Optimización de funciones de cálculo
@@ -286,17 +294,21 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 ## **v1.2 - Version Final del Software**
 
 **Fecha:** 15 de junio de 2025
+
 **Procedimientos realizados:**
 - Pruebas finales de integración
 - Validación completa de todos los módulos
+  
 **Estado:** Completado
 
 ## **v1.3 - Organización del repositorio**
 
 **Fecha:** 30 de junio de 2025
+
 **Procediientos realizados:**
 - Creación de la carpeta "src" en GitHub
 - Creación de carpeta "doc" en GitHub
 - Elaboración y subida del manual de usuario
 - Creación del plan de versioando del Software
+  
 **Estado:** En proceso
