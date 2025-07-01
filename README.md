@@ -201,9 +201,9 @@ Este valor representa lo que costaría el tiempo invertido si se pagara como una
 ## Plan de versionado del Software
 El plan de versionado describe el avance del desarrollo del Software de gestión de Alma Máter, registrando cada versión y los procedimientos relevantes realizados durante la codificación y desarrollo del sistema.
 
-##Cronograma de Versiones del Software
+## Cronograma de Versiones del Software
 
-# **v0.1 - Estructura Inicial del Programa**
+### **v0.1 - Estructura Inicial del Programa**
 
 **Fecha:** 14 de mayo de 2025 (Inicio del desarrollo del programa)
 **Procedimientos realizados:**
@@ -211,9 +211,9 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 - Implementación del menú principal
 - Definición de funciones base del sistema
 - Configuarción inicial de variables y estructuras de datos
-**Estado: Completado
+**Estado:** Completado
 
-# **v0.2 - Módulo de Registro de Usuarios**
+### **v0.2 - Módulo de Registro de Usuarios**
 
 **Fecha:** 18 de Mayo de 2025
 **Procedimientos realizados:**
@@ -222,4 +222,76 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 - Implementación de validación de documento (3-15 dígitos)
 - Desarrollo de validación de placa
 - Sistema de manejo de errores de validación
-**Estado: Completado
+**Estado:** Completado
+
+### **v0.3 - Módulo de Ingreso de Vehículos**
+
+**Feccha:** 22 de mayo de 2025
+**Procedimientos realizados:**
+- Implementación de función de ingreso de vehículos
+- Validación de usuarios registrados
+- Registro automático de hora de ingreso
+- Generación de recio de ingreso en pantalla
+- Almacenamiento de datos de vehículos ingresados
+**Estado:** Completado
+
+### **v0.4 - Sistema de Cálculo de Tarifas**
+
+  **Fecha:** 26 de mayo de 2025
+  **Procedimientos realizados:**
+  - Implementación de cálculo de tiempo de permanencia
+  - Desarrollo de algoritmo de cobro por horas ($7.000)
+  - Implementación de cobro por cuartos de hora ($1.500)
+  - Configuración de pago mínimo ($7.000)
+  - Sistema de cálculo de total a pagar
+  **Estado:** Completado
+    
+ ### **v0.5 - Módulo de Retiro de Vehículos**
+
+    **Fecha:** 29 de mayo de 2025
+    **Procedimientos realizados:**
+    - Implementación de función de retiro de vehículos
+    - Integración con sistema de cálculo de tarifas
+    - Validación de vehículos registrados
+    - Generación de factura de pago
+    - Actualización de estado de vehículos retirados
+   **Estado:** Completado
+
+### **v1.0 - Módulo de Administrador**
+
+    **Fecha:** 02 de junio de 2025
+    **Procedimientos realizados:**
+    - Implementación de sistema de autenticación de administrador
+    - Desarrollo de reporte de total de vehículos registrados
+    - Implementación de reporte de vehículos retirados
+    - Desarrollo de cálculo de tiempo promedio de estancia
+    - Implementación de lista de usuarios registrados
+    - Desarrollo de reporte de vehículo con tiempo máximo y mínimo
+   **Estado:** Completado
+
+## **v1.1 - Optimización y Corrección de Errores**
+
+**Fecha:** 08 de junio de 2025
+**Procedimientos realizados:**
+- Corrección de errores en validaciones
+- Optimización de funciones de cálculo
+- Mejora en el manejo de excepciones
+**Estado:** Completado
+
+## **v1.2 - Version Final del Software**
+
+**Fecha:** 15 de junio de 2025
+**Procedimientos realizados:**
+- Pruebas finales de integración
+- Validación completa de todos los módulos
+**Estado:** Completado
+
+## **v1.3 - Organización del repositorio**
+
+**Fecha:** 30 de junio de 2025
+**Procediientos realizados:**
+- Creación de la carpeta "src" en GitHub
+- Creación de carpeta "doc" en GitHub
+- Elaboración y subida del manual de usuario
+- Creación del plan de versioando del Software
+**Estado:** En proceso
