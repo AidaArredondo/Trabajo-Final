@@ -211,6 +211,7 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 - Implementación del menú principal
 - Definición de funciones base del sistema
 - Configuarción inicial de variables y estructuras de datos
+  
 **Estado:** Completado
 
 ### **v0.2 - Módulo de Registro de Usuarios**
@@ -222,6 +223,7 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 - Implementación de validación de documento (3-15 dígitos)
 - Desarrollo de validación de placa
 - Sistema de manejo de errores de validación
+  
 **Estado:** Completado
 
 ### **v0.3 - Módulo de Ingreso de Vehículos**
@@ -233,41 +235,44 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 - Registro automático de hora de ingreso
 - Generación de recio de ingreso en pantalla
 - Almacenamiento de datos de vehículos ingresados
+ 
 **Estado:** Completado
 
 ### **v0.4 - Sistema de Cálculo de Tarifas**
-
-  **Fecha:** 26 de mayo de 2025
-  **Procedimientos realizados:**
-  - Implementación de cálculo de tiempo de permanencia
-  - Desarrollo de algoritmo de cobro por horas ($7.000)
-  - Implementación de cobro por cuartos de hora ($1.500)
-  - Configuración de pago mínimo ($7.000)
-  - Sistema de cálculo de total a pagar
-  **Estado:** Completado
+**Fecha:** 26 de mayo de 2025
+**Procedimientos realizados:**
+- Implementación de cálculo de tiempo de permanencia
+- Desarrollo de algoritmo de cobro por horas ($7.000)
+- Implementación de cobro por cuartos de hora ($1.500)
+- Configuración de pago mínimo ($7.000)
+- Sistema de cálculo de total a pagar
+   
+**Estado:** Completado
     
- ### **v0.5 - Módulo de Retiro de Vehículos**
+### **v0.5 - Módulo de Retiro de Vehículos**
 
-    **Fecha:** 29 de mayo de 2025
-    **Procedimientos realizados:**
-    - Implementación de función de retiro de vehículos
-    - Integración con sistema de cálculo de tarifas
-    - Validación de vehículos registrados
-    - Generación de factura de pago
-    - Actualización de estado de vehículos retirados
-   **Estado:** Completado
+**Fecha:** 29 de mayo de 2025
+**Procedimientos realizados:**
+- Implementación de función de retiro de vehículos
+- Integración con sistema de cálculo de tarifas
+- Validación de vehículos registrados
+- Generación de factura de pago
+- Actualización de estado de vehículos retirados
+    
+**Estado:** Completado
 
 ### **v1.0 - Módulo de Administrador**
 
-    **Fecha:** 02 de junio de 2025
-    **Procedimientos realizados:**
-    - Implementación de sistema de autenticación de administrador
-    - Desarrollo de reporte de total de vehículos registrados
-    - Implementación de reporte de vehículos retirados
-    - Desarrollo de cálculo de tiempo promedio de estancia
-    - Implementación de lista de usuarios registrados
-    - Desarrollo de reporte de vehículo con tiempo máximo y mínimo
-   **Estado:** Completado
+**Fecha:** 02 de junio de 2025
+**Procedimientos realizados:**
+- Implementación de sistema de autenticación de administrador
+- Desarrollo de reporte de total de vehículos registrados
+- Implementación de reporte de vehículos retirados
+- Desarrollo de cálculo de tiempo promedio de estancia
+- Implementación de lista de usuarios registrados
+- Desarrollo de reporte de vehículo con tiempo máximo y mínimo
+    
+**Estado:** Completado
 
 ## **v1.1 - Optimización y Corrección de Errores**
 
