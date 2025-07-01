@@ -312,3 +312,31 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 - Creación del plan de versioando del Software
   
 **Estado:** En proceso
+
+## **Evolución del código**
+
+**Funcionalidades por versión**
+
+**v0.1 - v0.2: Fundamentos del sistema**
+- Estructura base del programa
+- Sistema de validaciones
+
+**v0.3 - v0.5: Core del parqueadero**
+- Gestión de vehículos
+- Sistema de cobros
+
+**v1.0: Módulo administrativo**
+- Reportes y estadísticas
+- Gestión completa
+
+**v1.1 - v1.2: Refinamiento**
+- Corrección de errores
+- Optimización de rendimiento
+
+**v1.3: Documentación y organización**
+- Estructura de repositorio
+- Documentación técnica
+
+
+
+
