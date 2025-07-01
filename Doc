@@ -128,5 +128,30 @@ Usuario: admin / Contraseña: 123456
 Usuario: gerente / Contraseña: almamater2024
 
 ### Reportes disponibles
-
-
+- Total de vehículos registrados: muestra cuantos usuarios están registrados en el sistema 
+- Total de vehículos retirados: muestra cuantos vehículos han completado su estadía
+- Total de vehículos sin retirar: lista los vehículos que actualmente están en el parqueadero 
+  Total de vehículos sin retirar: 2
+  Vehículos actualmente en el parqueadero:
+  - ABC123 | Juan Pérez | 45 min
+  - XYZ789 | María García | 120 min
+- Total pagos de vehículos retirados
+  Total de pagos recibidos: $45,500
+  Número de transacciones: 6
+  Pago promedio por vehículo: $7,583
+- Tiempo promedio de estancia: 2 horas y 15 minutos (135.0 minutos en total)
+- Lista completa de usuarios: Muestra todos los usuarios registrados con sus datos
+- Vehículo con tiempo máximo y mínimo: 
+  VEHÍCULO CON MAYOR TIEMPO DE PARQUEO:
+  Placa: DEF456
+  Propietario: Carlos López
+  Tiempo: 480 minutos
+  VEHÍCULO CON MENOR TIEMPO DE PARQUEO:
+  Placa: GHI789
+  Propietario: Ana Torres
+  Tiempo: 25 minutos
+- Exportar datos: 
+  Genera tres archivos:
+  usuarios_registrados.csv
+  vehiculos_retirados.csv
+  vehiculos_actuales.csv
