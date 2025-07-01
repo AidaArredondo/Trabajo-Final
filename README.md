@@ -185,7 +185,7 @@ Acciones y comportamientos específicos que debe realizar el sistema del parquea
 A partir del 1 de enero del 2025, en Colombia aplica la reducción de la jornada laboral a 46 horas semanales, lo que da como resultado 230 horas laboradas en el mes.
 Con base en el salario mínimo legal vigente (SMLV) para ese año, el valor de la hora ordinaria queda en $6.189.
 
-**Sobre el proyecyo:**
+**Sobre el proyecto:**
 
 El trabajo será realizado por tres estudiantes, quienes estiman invertir un total de 50 horas para completar el proyecto.
 Estas horas no se pagarán en dinero, sino que corresponden a tiempo de práctica formativa, valorado como si fuera tiempo de trabajo con base en el SMLV.
@@ -197,3 +197,29 @@ Estas horas no se pagarán en dinero, sino que corresponden a tiempo de práctic
 Total estimado por el tiempo invertido: $309.450 COP
 
 Este valor representa lo que costaría el tiempo invertido si se pagara como una práctica profesional, aunque no será remunerado económicamente.
+
+## Plan de versionado del Software
+El plan de versionado describe el avance del desarrollo del Software de gestión de Alma Máter, registrando cada versión y los procedimientos relevantes realizados durante la codificación y desarrollo del sistema.
+
+##Cronograma de Versiones del Software
+
+# **v0.1 - Estructura Inicial del Programa**
+
+**Fecha:** 14 de mayo de 2025 (Inicio del desarrollo del programa)
+**Procedimientos realizados:**
+- Creación de la estructura básica del programa Python
+- Implementación del menú principal
+- Definición de funciones base del sistema
+- Configuarción inicial de variables y estructuras de datos
+**Estado: Completado
+
+# **v0.2 - Módulo de Registro de Usuarios**
+
+**Fecha:** 18 de Mayo de 2025
+**Procedimientos realizados:**
+- Implementación de función de registro de usuarios
+- Desarrollo de validaciones para nombre y apellido
+- Implementación de validación de documento (3-15 dígitos)
+- Desarrollo de validación de placa
+- Sistema de manejo de errores de validación
+**Estado: Completado
