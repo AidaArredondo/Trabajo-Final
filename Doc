@@ -59,6 +59,74 @@ Apellido: Pérez
 Documento: 12345678
 Placa: ABC123
 
+*Errores comunes*
+-*Nombre o apellidos con menos de 3 caracteres*
+-*Nombres con números o caracteres especiales: "Juan123"*
+-*Documentos con letras o fuera del rango permitido: "123abc"*
+-*Placa con formato incorrecto: "AB1234" o "ABC12"*
+Los datos correctos se registran exitosamente 
 
+### Ingresar vehículo
+Se usa cuando un cliente registrado ingresa al parqueadero
+*Pasos:*
+1. Seleccionar la opción "Ingresar vehículo"
+2. El sistema validará que el usuario esté registrado, que el vehículo no esté ya dentro, y que hayan espacios disponibles. 
+3. Se registrará la hora de ingreso automáticamente 
+4. Se generará un recibo en pantalla con la información del ingreso. 
+*Nota:* Solo pueden ingresar vehículos de usuarios previamente registrados.
+*Recibo de ingreso:*
+======================================
+         RECIBO DE INGRESO
+      PARQUEADERO ALMA MATER
+======================================
+Nombre: Juan Pérez
+Documento: 12345678
+Placa: ABC123
+Hora de ingreso: 2024-06-20 08:30:00
+Espacios disponibles: 63
+======================================
+Conserve este recibo para el retiro
+======================================
+
+### Retirar Vehículo
+Procesa la salida de un vehículo del parqueadero y calcula el costo el parqueo 
+*Sistema de tarifas*
+Hora completa: $7,000 pesos
+Cuarto de hora: $1,500 pesos
+Pago mínimo: $7,000 pesos (equivalente a 1 hora)
+*Cálculo de tarifa*
+- Se calcula el tiempo total de permanencia
+- Se cobra por horas completas + cuartos de hora adicionales
+- Si el total es menor a $7,000, se cobra el mínimo 
+*Ejemplo de cálculo:*
+Tiempo: 1 hora y 37 minutos 
+Horas completas: 1 × $7,000 = $7,000
+Cuartos de hora: 3 × $1,500 = $4,500
+**Total**: $11,500
+============================================
+            FACTURA DE PAGO
+        PARQUEADERO ALMA MATER
+=============================================
+Nombre: Juan Pérez
+Documento: 12345678
+Placa: ABC123
+Hora ingreso: 2024-06-20 08:30:00
+Hora salida: 2024-06-20 10:07:00
+Tiempo total: 97 minutos
+---------------------------------------------
+DETALLE DE COBRO:
+Horas completas: 1 x $7,000 = $7,000
+Cuartos de hora: 3 x $1,500 = $4,500
+---------------------------------------------
+TOTAL A PAGAR: $11,500
+=============================================
+
+### Módulo Admnistrador
+únicamente puede acceder personal autorizado con credenciales 
+*credenciales de acceso:*
+Usuario: admin / Contraseña: 123456
+Usuario: gerente / Contraseña: almamater2024
+
+### Reportes disponibles
 
 
