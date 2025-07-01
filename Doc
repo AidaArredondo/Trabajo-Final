@@ -1,1 +1,49 @@
+**# Manual de usurio: Sistema de parqueadero**
 
+## Descripción
+El sistema de gestión de parqueadero Alma Máter, es una palicación desarrollado en Python que permite gestionar de manera eficienta las operaciones diarias del parqueadero como: registrar usuarios, controlar el ingreso 
+y salida de vehículos, calcular tarifas, generar recibos y facturas, y generar reportes administrativos. 
+
+## Requisitos del sistema
+Software necesario:
+Python 3.6 o superior
+Sistema operativo: Windows, MacOS, o linux 
+Memoria RAM: mínimo 512 MB
+Espacio Disco: 50 MB libres 
+
+##Librerías requeridas
+datetime - Para manejo de fechas y horas
+csv - Para exportación de datos
+os - Para operaciones del sistema
+
+## Instalación 
+1. Visita python.org
+2. Descargar python 3.8 o superior 
+3. Ejecuta el instalador y marca "Add python to path"
+## Descarga el sistema
+1. Descargar el archivo del programa main.py desde el repositorio 
+2. Guardalo en una carpeta de tu elección (ej: C:\ParqueaderoAlmaMater\)
+## Verificar instalación 
+python --version
+Debe mostrar la versión de python instalada
+## Inicio del sistema
+1. Ejecutar el programa 
+# Navegar a la carpeta del programa
+cd C:\ParqueaderoAlmaMater\
+# Ejecutar el sistema
+python main.py
+2. Pantalla de inicio
+Al iniciar verás el menú principal:
+===================================
+    PARQUEADERO ALMA MATER
+    Sistema de Gestión
+===================================
+1. Registrar Usuario
+2. Ingresar Vehículo
+3. Retirar Vehículo
+4. Administrador
+5. Salir
+===================================
+
+## Funcionalidades del sistema 
+### 1. Registrar usuario
