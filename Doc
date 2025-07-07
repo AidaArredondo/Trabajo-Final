@@ -155,3 +155,13 @@ Usuario: gerente / Contraseña: almamater2024
   usuarios_registrados.csv
   vehiculos_retirados.csv
   vehiculos_actuales.csv
+
+##Solución de problemas
+### Errores de validación
+*Problema:* "Error en formato de placa"
+*Solución:* Verificar que la placa tenga exactamente 3 letras, seguidas de 3 números (ejemplo: ABC123)
+*Problema:* "Nombre demasiado corto"
+*Solución:* Ingresar nombres y apellidos con mínimo 3 carateres 
+*Problema:* "Documento inválido"
+*Solución:* Usar sólo números, entre 3 y 15 dígitos 
+### Errores de operación 
