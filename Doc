@@ -164,3 +164,56 @@ Usuario: gerente / Contraseña: almamater2024
 *Problema:* "Documento inválido"
 *Solución:* Usar sólo números, entre 3 y 15 dígitos 
 ### Errores de operación 
+*Problema:* "Usuario no registrado"
+*Solución:* Registrar el usuario antes de intentar ingresar el vehículo
+*Problema:* "Vehículo no encontrado"
+*Solución:* Verificar que la placa este escrita correctamente y que el vehículo haya ingresado 
+*Problema:* "Este vehículo ya se encuentra en el parqueadero"
+*Solución:* Verifica la placa o retira el vehículo
+*Problema:* "No hay espacios disponibles"
+*Solución:* Esperar a que salgan vehículos o revisarel reporte de vehículos actuales
+###Errores de acceso
+*Problema:* "Credenciales incorrectas"
+*Solución:* Verificar que este utilizando:
+- admin/123456 o gerente/almamater2024
+*Problema: "No se crean archivos CSV
+*Solución:* - Ejecutar como administrador
+- Verificar los permisos de escritura
+- Los archivos se crean en la misma carpeta del programa 
+## Mejores prácticas 
+### Para operadores: 
+- Siempre registrar usuarios antes del primer ingreso
+- Verificar los datos antes de confirmar registros
+- Conservar los recibos hasat el retiro del vehículo
+- Hacer respaldos regulares exportando a CSV
+### Para administradores: 
+- Revisar resportes diariamente para detectar anomalías
+- Exportar datos semanalmente como respaldo
+- Mantener las credenciales seguras 
+- Capacitar al personal en el uso del sistema
+## Capacidad y limitaciones
+### Capacidades:
+- 64 vehículos simultáneos 
+- Usuarios ilimitados registrados 
+- Historial completo de transacciones 
+- Cálculo automático de tarifas 
+- Reportes en tiempo real 
+### Limitaciones: 
+- Solo para automóviles (no motos)
+- No guarda datos entre sesiones (usa CSV para respaldo)
+- No maneja múltiples turnos sumultáneos 
+- No tiene interfaz gráfica
+## Contácto y soporte
+### Soporte técnico:
+- Universidad: Universidad de Antioquia
+- Facultad: Facultad de ingeniería 
+- Curso: Algoritmia y programación
+### Equipo de desarrollo:
+- Líder del proyecto: Aida Andrea Arredondo Silva 
+- Desarrollador 1: Natalia Restrepo Calvo
+- Desarrollador 2: Dania Paola López Torres
+### Repositorio del proyecto:
+- GitHub: hay que pner la URL
+- Versión: 1.0.0
+- Última actualización: -----
+Este manual fue creado para facilitar el uso del sistema de gestión del parqueadero Alma Mater. Para actualizaciones y soporte adicional, consulta el repositorio del proyecto en GitHub.
