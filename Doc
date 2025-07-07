@@ -155,7 +155,6 @@ Usuario: gerente / Contraseña: almamater2024
   usuarios_registrados.csv
   vehiculos_retirados.csv
   vehiculos_actuales.csv
-
 ##Solución de problemas
 ### Errores de validación
 *Problema:* "Error en formato de placa"
