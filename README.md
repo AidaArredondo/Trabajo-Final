@@ -24,7 +24,9 @@ Este proyecto consiste en el desarrollo de un programa de consola en Python para
 
 **Seccional**: Urabá - Turbo
 
-**Habilidades y Fortalezas:** Me considero una persona responsable, respetuosa y con capacidad para el trabajo en equipo. Me adapto con facilidad a nuevos entornos y aprendo fácilmente. Busco mejorar y aportar lo mejor de mí en cada actividad.  
+**Habilidades y Fortalezas:** Me considero una persona responsable, respetuosa y con capacidad para el trabajo en equipo. Me adapto con facilidad a nuevos entornos y aprendo fácilmente. Busco mejorar y aportar lo mejor de mí en cada actividad. 
+
+**Semestre:** Inicié mi carrera profesional en el primer semestre de 2022. Sin embargo, actualmente continúo cursando asignaturas correspondientes al cuarto semestre, debido a que durante el año 2024 suspendí temporalmente mis estudios por motivos de maternidad.. 
 
 ### Dania Paola López Torres
 
@@ -64,15 +66,30 @@ El software de gestión para el parqueadero Alma Máter será una aplicación de
 ### **Objetivos:**
 El objetivo principal de este software es modernizar la gestión del parqueadero, pasando de un sistema manual a uno digitalizado. Esto se logrará mediante las siguientes funcionalidades clave:
 
-**Registros de Usuarios:** Permitir el registro de usuarios frecuentes o visitantes, almacenando información relevante como placa del vehículo y datos de contacto (opcional).
+**Registros de Usuarios:** El operario registrará cada vehículo al momento de su ingreso, indicando:
+-Placa del vehículo
+-Fecha y hora de entrada
+-Tipo de usuario: visitante o frecuente
+-Espacio de parqueo asignado (si aplica)
+En el caso de usuarios frecuentes, sus datos estarán previamente almacenados, lo que agiliza el proceso de ingreso.
 
-**Gestión de ingreso y salidas de vehículos:** Facilitar el registro de la hora y la fecha de ingreso de cada automóvil al parqueadero, así como la asignación del espacio de parqueo seleccionado. De igual manera, registrar la hora y fecha de salida del vehículo. 
+**Gestión de ingreso y salidas de vehículos:** El sistema mostrará la disponibilidad de espacios en tiempo real, permitirá al operario asignar el espacio más adecuado según el tipo de vehículo y la disponibilidad del momento. Al momento de la salida, el sistema solicitará la placa del vehículo para:
+-Verificar su registro de ingreso
+-Calcular automáticamente el tiempo de permanencia
+-Determinar el valor a pagar según las tarifas configuradas (por hora y fracción)
 
-**Cálculo automático de cobros:** Implementar un sistema de cálculo automático del valor a pagar por el tiempo de estacionamiento, considerando tarifas por hora y fracción. 
+**Cálculo automático de cobros:** El sistema aplicará la tarifa establecida en el parqueadero, basada en:
+-Tiempo total de permanencia
+-Posibles franjas horarias con precios diferenciados (si se implementan)
+Este cálculo será preciso, transparente y visible tanto para el operario como para el usuario.
 
-**Generación de facturas:** Crear la funcionalidad para generar facturas digitales para los usuarios que lo requieran, detallando el tiempo de estacionamiento y el valor pagado. 
+**Generación de facturas:** Para quienes lo requieran, el sistema generará una factura detallada con:
+-Datos del vehículo
+-Tiempo de permanencia
+-Valor total pagado
+-Fecha y hora del servicio
 
-**Generación de reportes administrativos:** Producir reportes periódicos que permitan al administrador del parqueadero tener una visión clara de la ocupación, los ingresos generados, el flujo de vehículos, y otros datos relevantes para la toma de decisiones. 
+**Generación de reportes administrativos:** Se producirán reportes periódicos que permitan al administrador del parqueadero tener una visión clara de la ocupación, los ingresos generados, el flujo de vehículos, y otros datos relevantes para la toma de decisiones. 
 
 **Interfaz de consola amigable:** Desarrollar una interfaz de línea de comandos en Python que sea visualmente organizada y fácil de navegar para los operarios del parqueadero.
 
