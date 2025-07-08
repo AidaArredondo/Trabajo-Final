@@ -1,4 +1,4 @@
-**# Manual de usurio: Sistema de parqueadero**
+# Manual de usurio: Sistema de parqueadero
 
 ## Descripción
 El sistema de gestión de parqueadero Alma Máter, es una palicación desarrollado en Python que permite gestionar de manera eficienta las operaciones diarias del parqueadero como: registrar usuarios, controlar el ingreso 
@@ -29,24 +29,31 @@ os - Para operaciones del sistema
 ## Verificar instalación 
 python --version
 Debe mostrar la versión de python instalada
-## Inicio del sistema
+Inicio del sistema
 1. Ejecutar el programa 
-# Navegar a la carpeta del programa
+Navegar a la carpeta del programa
 cd C:\ParqueaderoAlmaMater\
-# Ejecutar el sistema
+Ejecutar el sistema
 python main.py
 2. Pantalla de inicio
 Al iniciar verás el menú principal:
-===================================
-    PARQUEADERO ALMA MATER
-    Sistema de Gestión
-===================================
+
+
+=================================
+  
+        PARQUEADERO ALMA MATER
+         Sistema de Gestión
+    
+=================================
+
 1. Registrar Usuario
 2. Ingresar Vehículo
 3. Retirar Vehículo
 4. Administrador
 5. Salir
-===================================
+   
+=================================
+
 
 ## Funcionalidades del sistema 
 ### 1. Registrar usuario: Permite registrar nuevos usuarios en el sistema con la sisguientes validaciones y se debe usar antes de que un cliente use el parqueadero por primera vez. 
@@ -69,7 +76,7 @@ Placa: ABC123
 -*Placa con formato incorrecto: "AB1234" o "ABC12"*
 Los datos correctos se registran exitosamente 
 
-### Ingresar vehículo
+### 2. Ingresar vehículo
 Se usa cuando un cliente registrado ingresa al parqueadero
 *Pasos:*
 1. Seleccionar la opción "Ingresar vehículo"
@@ -78,20 +85,32 @@ Se usa cuando un cliente registrado ingresa al parqueadero
 4. Se generará un recibo en pantalla con la información del ingreso. 
 *Nota:* Solo pueden ingresar vehículos de usuarios previamente registrados.
 *Recibo de ingreso:*
-======================================
-         RECIBO DE INGRESO
-      PARQUEADERO ALMA MATER
-======================================
-Nombre: Juan Pérez
-Documento: 12345678
-Placa: ABC123
-Hora de ingreso: 2024-06-20 08:30:00
-Espacios disponibles: 63
-======================================
-Conserve este recibo para el retiro
+
+
 ======================================
 
-### Retirar Vehículo
+         RECIBO DE INGRESO
+      PARQUEADERO ALMA MATER
+      
+======================================
+
+Nombre: Juan Pérez
+
+Documento: 12345678
+
+Placa: ABC123
+
+Hora de ingreso: 2024-06-20 08:30:00
+
+Espacios disponibles: 63
+
+======================================
+
+Conserve este recibo para el retiro
+
+======================================
+
+### 3. Retirar Vehículo
 Procesa la salida de un vehículo del parqueadero y calcula el costo el parqueo 
 *Sistema de tarifas*
 Hora completa: $7,000 pesos
@@ -106,31 +125,48 @@ Tiempo: 1 hora y 37 minutos
 Horas completas: 1 × $7,000 = $7,000
 Cuartos de hora: 3 × $1,500 = $4,500
 **Total**: $11,500
+
+  
 ============================================
+
             FACTURA DE PAGO
         PARQUEADERO ALMA MATER
-=============================================
-Nombre: Juan Pérez
-Documento: 12345678
-Placa: ABC123
-Hora ingreso: 2024-06-20 08:30:00
-Hora salida: 2024-06-20 10:07:00
-Tiempo total: 97 minutos
----------------------------------------------
-DETALLE DE COBRO:
-Horas completas: 1 x $7,000 = $7,000
-Cuartos de hora: 3 x $1,500 = $4,500
----------------------------------------------
-TOTAL A PAGAR: $11,500
+        
 =============================================
 
-### Módulo Admnistrador
+Nombre: Juan Pérez
+
+Documento: 12345678
+
+Placa: ABC123
+
+Hora ingreso: 2024-06-20 08:30:00
+
+Hora salida: 2024-06-20 10:07:00
+
+Tiempo total: 97 minutos
+
+---------------------------------------------
+
+DETALLE DE COBRO:
+
+Horas completas: 1 x $7,000 = $7,000
+
+Cuartos de hora: 3 x $1,500 = $4,500
+
+---------------------------------------------
+
+TOTAL A PAGAR: $11,500
+
+=============================================
+
+### 4. Módulo Admnistrador
 únicamente puede acceder personal autorizado con credenciales 
 *credenciales de acceso:*
 Usuario: admin / Contraseña: 123456
 Usuario: gerente / Contraseña: almamater2024
 
-### Reportes disponibles
+### 5. Reportes disponibles
 - Total de vehículos registrados: muestra cuantos usuarios están registrados en el sistema 
 - Total de vehículos retirados: muestra cuantos vehículos han completado su estadía
 - Total de vehículos sin retirar: lista los vehículos que actualmente están en el parqueadero 
@@ -158,7 +194,8 @@ Usuario: gerente / Contraseña: almamater2024
   usuarios_registrados.csv
   vehiculos_retirados.csv
   vehiculos_actuales.csv
-##Solución de problemas
+  
+### Solución de problemas
 ### Errores de validación
 *Problema:* "Error en formato de placa"
 *Solución:* Verificar que la placa tenga exactamente 3 letras, seguidas de 3 números (ejemplo: ABC123)
