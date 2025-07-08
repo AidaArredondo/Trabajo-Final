@@ -12,7 +12,7 @@ Este proyecto consiste en el desarrollo de un programa de consola en Python para
 
 ### Aida Arredondo
 
-**Programa:** Ingeniería Industrial sexto de semestre, Facultad de Ingeniería
+**Programa:** Ingeniería Industrial sexto semestre, Facultad de Ingeniería
 
 **Seccional**: Occidente
 
@@ -303,15 +303,15 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 
 ## **v1.3 - Organización del repositorio**
 
-**Fecha:** 30 de junio de 2025
+**Fecha:** 07 de julio de 2025
 
-**Procediientos realizados:**
+**Procedimientos realizados:**
 - Creación de la carpeta "src" en GitHub
 - Creación de carpeta "doc" en GitHub
 - Elaboración y subida del manual de usuario
 - Creación del plan de versioando del Software
   
-**Estado:** En proceso
+**Estado:** Completado
 
 ## **Evolución del código**
 
