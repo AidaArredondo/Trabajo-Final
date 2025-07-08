@@ -40,7 +40,7 @@ Espacio exclusivo para el estacionamiento de automóviles de la comunidad univer
 ![Parqueadero Alma Máter](https://github.com/AidaArredondo/Trabajo-Final/blob/7d8426452a3a4366859b99315a22bae65fe32c10/Imagen%20Parqueadero%20del%20Proyecto.png)
 
 ## Licencia de Software
-La licencia recomendada para el software es **Creative Commons Atribución 4.0 Internacional**
+La licencia recomendada para el software es **Creative Commons Atribución 4.0 Internacional** [Click para ver la licencia](https://chooser-beta.creativecommons.org/)
 Esta licencia exige que los reutilizadores den crédito al creador. Permite distribuir, remezclar, adaptar y desarrollar el material en cualquier medio o formato, incluso con fines comerciales.
 
 Con esta licencia se tiene libertad para:
