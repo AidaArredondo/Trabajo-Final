@@ -12,7 +12,7 @@ Este proyecto consiste en el desarrollo de un programa de consola en Python para
 
 ### Aida Arredondo
 
-**Programa:** Ingeniería Industrial, Facultad de Ingeniería
+**Programa:** Ingeniería Industrial sexto de semestre, Facultad de Ingeniería
 
 **Seccional**: Occidente
 
