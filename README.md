@@ -206,6 +206,8 @@ Acciones y comportamientos específicos que debe realizar el sistema del parquea
 A partir del 1 de enero del 2025, en Colombia aplica la reducción de la jornada laboral a 46 horas semanales, lo que da como resultado 230 horas laboradas en el mes.
 Con base en el salario mínimo legal vigente (SMLV) para ese año, el valor de la hora ordinaria queda en $6.189.
 
+![Tabla de presupuesto](https://github.com/AidaArredondo/Trabajo-Final/blob/a30da367624e689822b46f44b311d435d683960a/TABLA%20PRESUPUESTO.png)
+
 **Sobre el proyecto:**
 
 El trabajo será realizado por tres estudiantes, quienes estiman invertir un total de 50 horas para completar el proyecto.
