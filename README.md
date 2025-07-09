@@ -12,11 +12,13 @@ Este proyecto consiste en el desarrollo de un programa de consola en Python para
 
 ### Aida Arredondo
 
-**Programa:** Ingeniería Industrial sexto semestre, Facultad de Ingeniería
+**Programa:** Ingeniería Industrial sexto, Facultad de Ingeniería
 
 **Seccional**: Occidente
 
 **Habilidades y Fortalezas:** Me considero una persona creativa, con buen sentido del diseño y con disposición a explorar y aprender cosas nuevas. Me gusta encontrar soluciones prácticas a los problemas y trabajar en equipo. Soy responsable, curiosa, me adapto fácilmente a los cambios y siempre busco mejorar en cada proyecto en el que participo.
+
+**Semestre: Sexto
 
 ### Natalia Restrepo Calvo
 
