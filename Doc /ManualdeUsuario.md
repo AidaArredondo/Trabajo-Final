@@ -1,7 +1,7 @@
 # Manual de usuario: Sistema de parqueadero
 
 ## Descripción
-El sistema de gestión de parqueadero Alma Máter, es una palicación desarrollado en Python que permite gestionar de manera eficienta las operaciones diarias del parqueadero como: registrar usuarios, controlar el ingreso 
+El sistema de gestión de parqueadero Alma Máter, es una aplicación desarrollada en Python que permite gestionar de manera eficiente las operaciones diarias del parqueadero como: registrar usuarios, controlar el ingreso 
 y salida de vehículos, calcular tarifas, generar recibos y facturas, y generar reportes administrativos. 
 
 ## Requisitos del sistema
