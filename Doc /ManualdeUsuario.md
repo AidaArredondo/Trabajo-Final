@@ -7,7 +7,7 @@ y salida de vehículos, calcular tarifas, generar recibos y facturas, y generar 
 ## Requisitos del sistema
 Software necesario:
 Python 3.6 o superior
-Sistema operativo: Windows, MacOS, o linux 
+Sistema operativo: Windows, MacOS, o Linux 
 Memoria RAM: mínimo 512 MB
 Espacio Disco: 50 MB libres 
 
@@ -25,7 +25,7 @@ os - Para operaciones del sistema
 3. Ejecuta el instalador y marca "Add python to path"
 ## Descarga el sistema
 1. Descargar el archivo del programa main.py desde el repositorio 
-2. Guardalo en una carpeta de tu elección (ej: C:\ParqueaderoAlmaMater\)
+2. Guárdalo en una carpeta de tu elección (ej: C:\ParqueaderoAlmaMater\)
 ## Verificar instalación 
 python --version
 Debe mostrar la versión de python instalada
@@ -71,7 +71,7 @@ Placa: ABC123
 
 *Errores comunes*
 -*Nombre o apellidos con menos de 3 caracteres*
--*Nombres con números o caracteres especiales: "Juan123"*
+-*Nombres con números o carácteres especiales: "Juan123"*
 -*Documentos con letras o fuera del rango permitido: "123abc"*
 -*Placa con formato incorrecto: "AB1234" o "ABC12"*
 Los datos correctos se registran exitosamente 
