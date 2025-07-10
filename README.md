@@ -314,7 +314,7 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 - Mejora en el manejo de excepciones
 **Estado:** Completado
 
-## **v1.2 - Version Final del Software**
+## **v1.2 - Versión Final del Software**
 
 **Fecha:** 15 de junio de 2025
 
