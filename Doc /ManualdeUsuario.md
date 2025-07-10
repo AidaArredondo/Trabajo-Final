@@ -243,7 +243,7 @@ Usuario: gerente / Contraseña: almamater2024
 - No guarda datos entre sesiones (usa CSV para respaldo)
 - No maneja múltiples turnos sumultáneos 
 - No tiene interfaz gráfica
-## Contácto y soporte
+## Contacto y soporte
 ### Soporte técnico:
 - Universidad: Universidad de Antioquia
 - Facultad: Facultad de ingeniería 
